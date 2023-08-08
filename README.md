@@ -3,7 +3,7 @@
 <h2>Networking and Cyber Security Projects</h2>
 
 - <b>Active Directory Enterprise Network setup Project (Virtual Machine) | System Admininstration </b>
-  - [Link to the project](https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/swopnilshakya7/Enterprise-Active-Directory-and-Internal-Network-Setup))
+  - [Link to the project](https://github.com/swopnilshakya7/Enterprise-Active-Directory-and-Internal-Network-Setup)
   - Project inclusions:
     - Active Directory Administration
     - Remote Access SErver (RAS) setup to support NAT/ PAT.
