@@ -18,6 +18,17 @@
     - Log Analytics Workspace configuration for geo data mapping.
     - Analysis of Security Event via Azure Sentinel (Microsoft's Cloud SIEM).
 
+
+- <b>Windows System Hacking | Metasploit Framework | Reverse Shell Engineering | Ethical Hacking </b>
+  - [Link to the project](https://github.com/swopnilshakya7/Taking-Control-Over-Windows-Machine-Metasploit-Ethical-Hacking/tree/main)
+  - Project inclusions:
+    - MetaSploit Framework.
+    - Reverse Shell, Phoning Home.
+    - Meterpreter Enivornment use.
+    - Manipulating Victim Windows system.
+    - Spying through webcam, dumping keystrokes, Screensharing, recourses upload/ downloads.
+
+
 <h2>My blog website</h2>
 
 - [Learn Ethical Hacking Here](https://www.swopnilshakya.com.np)
