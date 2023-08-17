@@ -28,6 +28,15 @@
     - Manipulating Victim Windows system.
     - Spying through webcam, dumping keystrokes, Screensharing, recourses upload/ downloads.
 
+- <b>Website Hacking | Metasploitable Server | Cross Site Scripting (XSS) | SQL Injection | Ethical Hacking </b>
+  - [Link to the project](https://github.com/swopnilshakya7/Web-Application-Hacking-XSS-SQL-Injection-Metasploitable-Home-Lab/tree/main)
+  - Project inclusions:
+    - MetaSploitable server.
+    - JavaScript and SQL Payloads.
+    - XSS and SQL injection techniques and opportunities.
+    - Methods to get secured from common attacks.
+   
+
 
 <h2>My blog website</h2>
 
