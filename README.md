@@ -37,7 +37,7 @@
     - Methods to get secured from common attacks.
    
 - <b>Windows Server Exploitation | MS17-010 | Eternal Blue | Ethical Hacking </b>
-  - [Link to the project] (https://github.com/swopnilshakya7/MS17-010-Eternal-Blue-Semi--Manual-Exploitation)
+  - [Link to the project](https://github.com/swopnilshakya7/MS17-010-Eternal-Blue-Semi--Manual-Exploitation)
   - Project inclusions:
     - Windows Server 2008 SMB version 1 exploit.
     - AutoBlue tool.
