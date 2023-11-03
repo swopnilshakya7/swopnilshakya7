@@ -42,10 +42,6 @@
     - Windows Server 2008 SMB version 1 exploit.
     - AutoBlue tool.
     - nmap and its scripts, netcat.
-    
-<h2>My blog website</h2>
-
-- [Learn Ethical Hacking Here](https://www.swopnilshakya.com.np)
 
 <h2> Connect with me:</h2>
 
