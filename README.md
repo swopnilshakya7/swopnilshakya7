@@ -1,4 +1,4 @@
-<h1>Hi, I'm Swopnil! <br/><a href="https://github.com/swopnilshakya7">Computer Engineer</a>, <a href="https://www.linkedin.com/in/swopnil-shakya-981788146/">Cybersecurity Analyst</a>
+<h1>Hi, I'm Swopnil! <br/><a href="https://github.com/swopnilshakya7">Computer Engineer</a>, <a href="https://www.linkedin.com/in/swopnil-shakya-981788146/">Cybersecurity & Data Analyst</a>
 
 <h2>Networking and Cyber Security Projects</h2>
 
